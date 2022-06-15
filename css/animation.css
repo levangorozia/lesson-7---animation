@@ -1,0 +1,5 @@
+@keyframes sun {
+
+    from{right: 0;}
+    to{right: 200px;}
+}
